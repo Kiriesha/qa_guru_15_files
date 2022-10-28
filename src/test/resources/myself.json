@@ -1,0 +1,10 @@
+{
+  "name": "Anastasiia",
+  "lastname": "Kireeva",
+  "age": "24",
+  "work": true,
+  "passport": {
+  "number": "1234567890",
+    "issuedate": "22.10.2022"
+  }
+}
